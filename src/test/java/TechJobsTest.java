@@ -69,5 +69,4 @@ public class TechJobsTest {
         assertEquals(expected, output);
     }
 
-
 }
